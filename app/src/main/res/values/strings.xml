@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">todoList APP</string>
+    <string name="addMain">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="title">List of Task</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
